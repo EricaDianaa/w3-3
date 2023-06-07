@@ -1,9 +1,12 @@
 body{
-    background-color:lightblue
+    background-image: url(../assets/img1.jpg);
+    background-size: cover;
 }
 #container{
     background-color: khaki;
     text-align: center;
- margin: 50px;
-    height: 500px;
+ margin: 0 auto;
+ width: 300px;
+    height: 200px;
+border: solid 1px black;
 }
